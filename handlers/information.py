@@ -1,4 +1,4 @@
-import loader
+from loader import *
 
 @bot.message_handler(commands=['📜информация'])
 def information_command(message):
