@@ -2,8 +2,10 @@ import sqlite3
 import time, random
 import telebot
 from telebot import types
+import datetime
 
 from Data.config import *
+
 
 
 bot = telebot.TeleBot('5401031658:AAG-grsVzdN-_ynDW5AihgbEYrQVqCpWxDg')
@@ -41,3 +43,8 @@ def check_registration(message):
     else:
         print(121232)
         return True
+
+
+def qty_mess(qty):     #Функция для изменения кол-ва сообщений у пользователя
+    itog = qty + 1
+    return itog

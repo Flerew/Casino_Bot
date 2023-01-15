@@ -14,7 +14,7 @@ def exit_to_menu_command(message):
         item3 = types.KeyboardButton('/▶️игры')
         item4 = types.KeyboardButton('/🎰онлаин выйгрыши⛔')
         item5 = types.KeyboardButton('/💸Деньги в кредит⛔')
-        item6 = types.KeyboardButton('/📨Перевод⛔')
+        item6 = types.KeyboardButton('/📨Перевод')
         item7 = types.KeyboardButton('/🔑Промокоды⛔')
         item8 = types.KeyboardButton('/show_users')
         item9 = types.KeyboardButton('/edit_money')

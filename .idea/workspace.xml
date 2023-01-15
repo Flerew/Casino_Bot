@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f1f7172-acfa-401a-98c0-ca37fd97f599" name="Changes" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/handlers/for_admin/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/for_admin/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handlers/for_admin/show_users.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/for_admin/show_users.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handlers/simple/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/handlers/simple/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/simple/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/simple/exit_to_menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/simple/exit_to_menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/simple/information.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/simple/information.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/simple/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/simple/start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/info_players.db" beforeDir="false" afterPath="$PROJECT_DIR$/info_players.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/loader.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -259,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670470376722</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial Commit">
+      <created>1672473393241</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672473393242</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,8 +316,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial Commit" />
     <MESSAGE value="no_comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="no_comment" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
