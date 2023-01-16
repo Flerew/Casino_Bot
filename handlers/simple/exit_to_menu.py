@@ -20,7 +20,7 @@ def exit_to_menu_command(message):
         item9 = types.KeyboardButton('/edit_money')
 
         if id != admin_id:
-            markup.add(item1, item2, item3, item4, item5, item6, item7)
+            markup.add(item1, item2, item3, item6)
         else:
             markup.add(item1, item2, item3, item4, item5, item6, item7, item8, item9)
             

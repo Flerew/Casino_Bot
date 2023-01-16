@@ -6,4 +6,4 @@ def information_command(message):
     id = init(message, 'id')
     nik = init(message, 'nik')
 
-    bot.send_message(message.chat.id,  f"Ваш id: {id}\nВаш ник: {nik}\n/Сообщить об ошибке")
+    bot.send_message(message.chat.id,  f"Ваш id: {id}\nВаш ник: {nik}\n/Сообщить_об_ошибке")

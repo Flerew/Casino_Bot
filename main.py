@@ -1,10 +1,10 @@
-#while True:
-    #try:
-from handlers import *
-from loader import *
+while True:
+    try:
+        from handlers import *
+        from loader import *
 
-bot.polling(non_stop=True)
+        bot.polling(non_stop=True)
 
-    #except:
-        #print('Error')
-        #continue
+    except:
+        print('Error')
+        continue

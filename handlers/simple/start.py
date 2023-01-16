@@ -17,12 +17,11 @@ def start(message):
         item5 = types.KeyboardButton('/💸Деньги в кредит⛔')
         item6 = types.KeyboardButton('/📨Перевод')
         item7 = types.KeyboardButton('/🔑Промокоды⛔')
-        item8 = types.KeyboardButton('/Сообщить_об_ошибке')
-        item9 =types.KeyboardButton('/show_users')
-        item10 = types.KeyboardButton('/edit_money')
+        item8 =types.KeyboardButton('/show_users')
+        item9 = types.KeyboardButton('/edit_money')
 
         if id != admin_id:
-            markup.add(item1, item2, item3, item4, item5, item6, item7)
+            markup.add(item1, item2, item3, item6)
         else:
             markup.add(item1, item2, item3, item4, item5, item6, item7, item8, item9)
 
