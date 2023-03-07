@@ -8,7 +8,7 @@ from Data.config import *
 
 
 
-bot = telebot.TeleBot('5401031658:AAG-grsVzdN-_ynDW5AihgbEYrQVqCpWxDg')
+bot = telebot.TeleBot(":)")
 
 connect = sqlite3.connect('info_players.db', check_same_thread=False)
 cursor = connect.cursor()
